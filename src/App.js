@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>l6_t6: условный рендеринг</h1>
+        <h1>l6_t6: условный рендеринг, задание 3</h1>
         <menu>
           <button id={1} onClick={handleClick}>
             Главная
